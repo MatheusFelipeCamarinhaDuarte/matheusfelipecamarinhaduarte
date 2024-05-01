@@ -4,8 +4,10 @@
 <p>
   I'm a backend developer & AI engineer!  
 </p>
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ## Some forms of contact
+
 <div style="display: inline_block;">
   <a href = "mailto:matheus.camarinha.duarte@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -15,19 +17,16 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <br>
-  <a href="https://www.instagram.com/matt.c.duarte/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://t.me/MatheusFelipeCamarinhaDuarte" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a>
+  <br>
+  <a href="https://wa.me/+5511910166339?text=olá!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 </div>
 
-
-
-
-
 # I work with
-
-
-
 
 ### IA
 
@@ -45,6 +44,7 @@
   <img  align="center" alt="Python" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin: 50px;"/>
 
 </div>
+<br>
 
 ### Backend
 
@@ -59,10 +59,13 @@
   <img  align="center" alt=".NET" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="margin: 50px;"/>
 
 </div>
+<br>
 
 ### Database
 
 <div style="display: inline_block;">
+  
+  <img  align="center" alt="MySQL" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="margin: 50px;"/>
   
   <img  align="center" alt="Postgres" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" style="margin: 50px;"/>
   
@@ -70,9 +73,10 @@
   
   <img  align="center" alt="SQL Developer" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" style="margin: 50px;"/>
   
-  <img  align="center" alt="MySQL" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="MariaDB" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="margin: 50px;"/>
   
 </div>
+<br>
 
 ### DevOps
 
@@ -82,11 +86,14 @@
 
   <img  align="center" alt="Docker" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="margin: 50px;"/>
   
+  <img  align="center" alt="Linux" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 50px;"/>
+  
   <img  align="center" alt="Git" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="margin: 50px;"/>
   
   <img  align="center" alt="Github" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="margin: 50px;"/>
 
 </div>
+<br>
 
 ### Frontend
 
@@ -107,6 +114,7 @@
   <img   align="center" alt="CSS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="margin: 50px;"/>
 
 </div>
+<br>
 
 ### API's
 
@@ -117,6 +125,7 @@
   <img  align="center" alt="Insomnia" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" style="margin: 50px;"/>
 
 </div>
+<br>
 
 
 
