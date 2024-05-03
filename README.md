@@ -52,6 +52,8 @@
   <img  align="center" alt="Java" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="margin: 50px;"/>
   <img  align="center" alt="Java - Spring" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" style="margin: 50px;"/>
 
+  <br>
+
   <img  align="center" alt="C#" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin: 50px;"/>
   <img  align="center" alt=".NET" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="margin: 50px;"/>
 
@@ -97,10 +99,16 @@
 <div style="display: inline_block;">
   
   <img align="center" alt="React" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="margin: 50px;"/>
+  
+  <img align="center" alt="React Native" height="100" width="100" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" style="margin: 50px;"/>
 
   <img align="center" alt="Android" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" style="margin: 50px;"/>
+  
+  <img align="center" alt="Apple" height="100" width="100" src="https://www.shareicon.net/download/2016/08/01/639802_apple.svg" style="margin: 50px;"/>
 
   <img  align="center" alt="Javascript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 50px;" />
+
+  <br>
 
   <img align="center" alt="Typescript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 50px;"/>
 
