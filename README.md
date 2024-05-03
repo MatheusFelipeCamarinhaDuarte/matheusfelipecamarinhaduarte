@@ -30,6 +30,7 @@
 
 
 
+  <img  align="center" alt="Orange Data Mining" height="100" width="100"  src="https://agnieszka.si/img/portfolio/orange-2023/orange-2023-cover-white.png" style="margin: 50px;"/>
 
   <img  align="center" alt="Nootbook - Jupyter" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin: 50px;"/>
 
