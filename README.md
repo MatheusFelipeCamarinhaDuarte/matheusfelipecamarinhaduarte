@@ -7,7 +7,7 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 ## Some forms of contact
-
+  
 <div style="display: inline_block;">
   <a href = "mailto:matheus.camarinha.duarte@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -24,112 +24,72 @@
 
 # I work with
 
+<div>
 ### IA
-
 <div style="display: inline_block;">
-
-
-  <img  align="center" alt="scikitlearn" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="Nootbook - Jupyter" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="Pandas" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="Orange Data Mining" height="100" width="100"  src="https://agnieszka.si/img/portfolio/orange-2023/orange-2023-cover-white.png" style="margin: 50px;"/>
-
-  <img  align="center" alt="Matplotlib" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="Python" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin: 50px;"/>
-
+  <img  align="center" alt="scikitlearn" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Nootbook - Jupyter" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Pandas" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Orange Data Mining" height="70" width="70"  src="https://agnieszka.si/img/portfolio/orange-2023/orange-2023-cover-white.png" style="margin: 50px;"/>
+  <img  align="center" alt="Matplotlib" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Python" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin: 50px;"/>
 </div>
 <br>
 
 ### Backend
-
 <div style="display: inline_block;">
-  
-  <img  align="center" alt="Python" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin: 50px;"/>
-  <img  align="center" alt="Flask" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="Java" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="margin: 50px;"/>
-  <img  align="center" alt="Java - Spring" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="C#" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin: 50px;"/>
-  <img  align="center" alt=".NET" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="margin: 50px;"/>
-
+  <img  align="center" alt="Python" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Flask" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Java" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Java - Spring" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="C#" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin: 50px;"/>
+  <img  align="center" alt=".NET" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="margin: 50px;"/>
 </div>
 <br>
 
 ### Database
-
 <div style="display: inline_block;">
-  
-  <img  align="center" alt="MySQL" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="Postgres" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="Oracle SQL" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="SQL Developer" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="MariaDB" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="margin: 50px;"/>
-  
+  <img  align="center" alt="MySQL" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Postgres" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Oracle SQL" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" style="margin: 50px;"/>
+  <img  align="center" alt="SQL Developer" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" style="margin: 50px;"/>
+  <img  align="center" alt="MariaDB" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="margin: 50px;"/>
 </div>
 <br>
 
 ### DevOps
-
 <div style="display: inline_block;">
-  
-  <img  align="center" alt="Azure DevOps" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="Docker" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="Linux" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="Git" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="margin: 50px;"/>
-  
-  <img  align="center" alt="Github" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="background-color: '#ffffff';"/>
-
+  <img  align="center" alt="Azure DevOps" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Docker" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Linux" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Git" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Github" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="background-color: '#ffffff';"/>
 </div>
 <br>
 
 ### Frontend
-
 <div style="display: inline_block;">
-  
-  <img align="center" alt="React" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="margin: 50px;"/>
-  
-  <img align="center" alt="React Native" height="100" width="100" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" style="margin: 50px;"/>
-
-  <img align="center" alt="Android" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" style="margin: 50px;"/>
-  
-  <img align="center" alt="Apple" height="100" width="100" src="https://www.shareicon.net/download/2016/08/01/639802_apple.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="Javascript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 50px;" />
-
-  <img align="center" alt="Typescript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 50px;"/>
-
-  <br>
-
-  <img   align="center" alt="HTML" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="margin: 50px;"/>
-
-  <img   align="center" alt="CSS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="margin: 50px;"/>
-
-  <img   align="center" alt="Bootstrap" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="margin: 50px;"/>
-
+  <img align="center" alt="React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="margin: 50px;"/>
+  <img align="center" alt="React Native" height="70" width="70" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" style="margin: 50px;"/>
+  <img align="center" alt="Android" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" style="margin: 50px;"/>
+  <img align="center" alt="Apple" height="70" width="70" src="https://www.shareicon.net/download/2016/08/01/639802_apple.svg" style="margin: 50px;"/>
+  <img align="center" alt="Javascript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 50px;" />
+  <img align="center" alt="Typescript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 50px;"/>
+  <img align="center" alt="HTML" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="margin: 50px;"/>
+  <img align="center" alt="CSS" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="margin: 50px;"/>
+  <img align="center" alt="Bootstrap" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="margin: 50px;"/>
 </div>
 <br>
 
 ### API's
 
 <div style="display: inline_block;">
-  
-  <img  align="center" alt="Postman" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" style="margin: 50px;"/>
-
-  <img  align="center" alt="Insomnia" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Postman" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Insomnia" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" style="margin: 50px;"/>
+</div>
 
 </div>
+
 <br>
 
 Images by: [devicon](https://devicon.dev)
