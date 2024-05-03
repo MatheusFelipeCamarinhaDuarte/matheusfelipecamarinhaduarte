@@ -25,6 +25,7 @@
 # I work with
 
 <div>
+  
 ### IA
 <div style="display: inline_block;">
   <img  align="center" alt="scikitlearn" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin: 50px;"/>
