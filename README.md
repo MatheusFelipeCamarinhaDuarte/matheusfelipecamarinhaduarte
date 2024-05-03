@@ -37,8 +37,6 @@
 
   <img  align="center" alt="Orange Data Mining" height="100" width="100"  src="https://agnieszka.si/img/portfolio/orange-2023/orange-2023-cover-white.png" style="margin: 50px;"/>
 
-  <br>
-
   <img  align="center" alt="Matplotlib" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" style="margin: 50px;"/>
   
   <img  align="center" alt="Python" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin: 50px;"/>
@@ -55,8 +53,6 @@
 
   <img  align="center" alt="Java" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="margin: 50px;"/>
   <img  align="center" alt="Java - Spring" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" style="margin: 50px;"/>
-
-  <br>
 
   <img  align="center" alt="C#" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin: 50px;"/>
   <img  align="center" alt=".NET" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="margin: 50px;"/>
@@ -76,8 +72,6 @@
   
   <img  align="center" alt="SQL Developer" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" style="margin: 50px;"/>
   
-  <br>
-  
   <img  align="center" alt="MariaDB" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="margin: 50px;"/>
   
 </div>
@@ -94,8 +88,6 @@
   <img  align="center" alt="Linux" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 50px;"/>
   
   <img  align="center" alt="Git" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="margin: 50px;"/>
-
-  <br>
   
   <img  align="center" alt="Github" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="background-color: '#ffffff';"/>
 
@@ -114,17 +106,15 @@
   
   <img align="center" alt="Apple" height="100" width="100" src="https://www.shareicon.net/download/2016/08/01/639802_apple.svg" style="margin: 50px;"/>
 
-  <br>
-
   <img  align="center" alt="Javascript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 50px;" />
 
   <img align="center" alt="Typescript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 50px;"/>
 
+  <br>
+
   <img   align="center" alt="HTML" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="margin: 50px;"/>
 
   <img   align="center" alt="CSS" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="margin: 50px;"/>
-
-  <br>
 
   <img   align="center" alt="Bootstrap" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="margin: 50px;"/>
 
