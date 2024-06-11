@@ -92,8 +92,9 @@
 </div>
 
 <br>
-
+<!--
 Images by: [devicon](https://devicon.dev)
+-->
 
 
 <!--
