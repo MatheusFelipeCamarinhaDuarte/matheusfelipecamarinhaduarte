@@ -40,6 +40,7 @@
 ### Backend
 <div style="display: inline_block;">
   <img  align="center" alt="Python" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin: 50px;"/>
+  <img  align="center" alt="Django" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" style="margin: 50px;"/>
   <img  align="center" alt="Flask" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" style="margin: 50px;"/>
   <img  align="center" alt="Java" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="margin: 50px;"/>
   <img  align="center" alt="Java - Spring" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" style="margin: 50px;"/>
